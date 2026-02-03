@@ -1,9 +1,6 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
-
-// Write your JavaScript code.
-
+﻿// Ensure that the DOM is ready
 $(document).ready(function() {
+    // get input from form and store number input by user
     $("#btnSubmit").on("click", function () {
         const hours = parseFloat($("#txtHours").val());
         const rate = parseFloat($("#txtRate").data("rate"));
