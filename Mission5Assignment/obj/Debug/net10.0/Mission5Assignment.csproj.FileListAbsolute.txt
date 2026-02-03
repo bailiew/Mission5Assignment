@@ -22,7 +22,6 @@
 /Users/bailiewhetten/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/scopedcss/bundle/Mission5Assignment.styles.css
 /Users/bailiewhetten/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/scopedcss/projectbundle/Mission5Assignment.bundle.scp.css
 /Users/bailiewhetten/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/c6iyl1adxa-{0}-61n19gt1b8-61n19gt1b8.gz
-/Users/bailiewhetten/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/qzwta2tyz2-{0}-fr7q2aak1r-fr7q2aak1r.gz
 /Users/bailiewhetten/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/u90ifnxaz9-{0}-bqjiyaj88i-bqjiyaj88i.gz
 /Users/bailiewhetten/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/y3umc8ozcy-{0}-c2jlpeoesf-c2jlpeoesf.gz
 /Users/bailiewhetten/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/imv7l4w751-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -95,3 +94,5 @@
 /Users/bailiewhetten/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/Mission5Assignment.genruntimeconfig.cache
 /Users/bailiewhetten/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/ref/Mission5Assignment.dll
 /Users/bailiewhetten/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/y5q2nl4mgf-{0}-76vtc1rj3f-76vtc1rj3f.gz
+/Users/bailiewhetten/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/Mission5Assignment.sourcelink.json
+/Users/bailiewhetten/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/qzwta2tyz2-{0}-hyyn6o2594-hyyn6o2594.gz

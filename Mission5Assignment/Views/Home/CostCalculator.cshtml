@@ -3,4 +3,25 @@
 }
 <h1>@ViewData["Title"]</h1>
 
-<p>Use this page to detail your site's privacy policy.</p>
+<h4>Pickleball Session Cost Calculation</h4>
+<p>Thinking about improving your pickleball game? This calculator lets you estimate
+    the cost of tutoring sessions so you can plan lessons that fit your goals and budget.</p>
+
+<form id="costForm">
+    <label for="txtHours">Desired Session Hours:</label>
+    <input id="txtHours" type="number" min="0"/>
+    
+    <br/><br/>
+    
+    <label for="txtRate">Cost Per Hour:</label>
+    <input id="txtRate" type="text" value="$20" data-rate="20" readonly>
+    
+    <br/><br/>
+    
+    <input type="button" id="btnSubmit" value="Calculate Cost"/>
+    
+    <br/><br/>
+    
+    <label for="txtTotal">Estimated Total Cost:</label>
+    <input id="txtTotal" type="text" readonly value="$0.00" />
+</form>
